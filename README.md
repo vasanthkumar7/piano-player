@@ -2,7 +2,7 @@
 
 to make it work in your computer
 you have install pynput
-by pip install pynput in the command promt
+by  using  pip install pynput in the command promt
 
 then
 
