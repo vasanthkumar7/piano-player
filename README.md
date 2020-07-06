@@ -7,5 +7,5 @@ by  using  "pip install pynput" in the command promt
 then
 
 visit this website:-https://www.onlinepianist.com/virtual-piano
-and then run this program
+and then run this program...
 this is a piano player using python
