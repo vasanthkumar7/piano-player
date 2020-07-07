@@ -8,4 +8,5 @@ then
 
 visit this website:-https://www.onlinepianist.com/virtual-piano
 and then run this program...
-this is a piano player using python
+then minimize the program
+and the terminal
